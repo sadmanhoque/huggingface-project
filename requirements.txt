@@ -1,0 +1,6 @@
+transformers
+langchain
+langchain-huggingface
+tensorflow
+torch
+tf_keras
